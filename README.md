@@ -384,8 +384,6 @@ export default SingleProduct;
 
 #### useNavigate()
 
-[ (?.) or Optional Chaining Explained](https://youtu.be/PuEGrylM1x8)
-
 - App.js
 
 ```js
@@ -429,8 +427,6 @@ const Login = ({ setUser }) => {
   };
 
 ```
-
-[ (?.) or Optional Chaining Explained](https://youtu.be/PuEGrylM1x8)
 
 - Dashboard.js
 
